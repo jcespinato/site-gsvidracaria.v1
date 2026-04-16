@@ -2,6 +2,8 @@
 
 Meu primeiro site profissional desenvolvido para uma empresa.
 
+🌐 Acesse o site: https://gsvidracaria.shop
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
